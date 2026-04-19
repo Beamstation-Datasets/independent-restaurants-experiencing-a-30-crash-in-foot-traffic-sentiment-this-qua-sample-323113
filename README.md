@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Louisiana
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `323113` |
 | Location | Louisiana |
 | Category | Food and Drink |
-| Full dataset size | 383 records |
-| Free sample size | 38 records (9.92%) |
-| Last export | 2026-04-09T19:06:35.268404+00:00 |
+| Full dataset size | 408 records |
+| Free sample size | 40 records (9.8%) |
+| Last export | 2026-04-16T22:27:32.132166+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-323113/releases/download/sample-latest/beamstation_323113_food_and_drink-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
